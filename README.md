@@ -1,4 +1,4 @@
-# MultifunctionalApp - Academic Project 
+# MultifunctionalApp - Academic Project July 2021
 This is multifunctional Windows Forms application has a dash board with a a Lottery Number Generator, Simple calculator, Money Exchanger, Temperature Conversion, and IP4 Validator
 In this is multifunctional Windows Forms application has a dash board where the user can:
 Lottery Number Generator, allows the user to generate 6 or 7 random unique numbers for the lottery plus a bonus number. 
