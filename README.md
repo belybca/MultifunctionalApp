@@ -9,7 +9,7 @@ IP4 Validator, in this functionality the user can verify if a number is a valid 
 
  For all the functionalities the results are stored into his respective text file including the result, date and time. The user has access to these files and can check then at any time.
 
-#•	Implementation:
+# •	Implementation:
 #  o	Object model and class creation 
 #  o	FileStream, StreamReader, StreamWriter objects
 #  o	Try and Catch
